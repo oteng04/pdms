@@ -1,0 +1,118 @@
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.xml
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbprojResolveAssemblyReference.cache
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Home.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Resources.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.GenerateResource.Cache
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.xml
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Search.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchPatientID.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchDate.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Add.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.AddNewPatient.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.AddNewPatientRecord.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientId.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\Interop.MSVidCtlLib.dll
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.ResolveComReference.cache
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystemDb.mdf
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystemDb_log.ldf
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem._Update.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientID_Update1.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientID_Update2.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.UpdatePatientHealthRecord.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.UpdatePatient.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Doctor_Nurse.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Doc_Nurse_Login.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchBySex.resources
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.dll
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.EntityFramework.dll
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Web.dll
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\Google.Protobuf.dll
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.xml
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Web.xml
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.PatientManagementSystem.exe.config
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\Database1.mdf
+E:\Programming sample\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\Database1_log.ldf
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.ResolveComReference.cache
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.xml
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.xml
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\Google.Protobuf.dll
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.xml
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Web.xml
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.PatientManagementSystem.exe.config
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Add.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.AddNewPatient.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.AddNewPatientRecord.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Doc_Nurse_Login.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientId.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientID_Update1.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientID_Update2.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Doctor_Nurse.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchBySex.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.UpdatePatient.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.UpdatePatientHealthRecord.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem._Update.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Home.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Resources.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Search.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchDate.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchPatientID.resources
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\DB.mdf
+D:\Programming\VB.NET\PatientManagementSystem\PatientManagementSystem\bin\Debug\DB_log.ldf
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\Interop.MSVidCtlLib.dll
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.ResolveComReference.cache
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.xml
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\DB.mdf
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\DB_log.ldf
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\PatientManagementSystem.xml
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\Google.Protobuf.dll
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.xml
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\bin\Debug\MySql.Web.xml
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbprojResolveAssemblyReference.cache
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.PatientManagementSystem.exe.config
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Add.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.AddNewPatient.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.AddNewPatientRecord.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Doc_Nurse_Login.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientId.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientID_Update1.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.EnterPatientID_Update2.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Doctor_Nurse.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchBySex.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.UpdatePatient.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.UpdatePatientHealthRecord.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem._Update.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Home.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Resources.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.Search.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchDate.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.SearchPatientID.resources
+E:\Programming sample\MyProject\PatientManagementSystem\PatientManagementSystem\obj\Debug\PatientManagementSystem.vbproj.GenerateResource.Cache

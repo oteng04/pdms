@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{871A2AA9-C58E-4821-8062-A685C08CA8AC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PatientManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>PatientManagementSystem</RootNamespace>
+    <AssemblyName>PatientManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PatientManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PatientManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility.Data" />
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore.Design, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Data.Services" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Data.Services.Design" />
+    <Reference Include="System.Data.SqlXml" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add.Designer.vb">
+      <DependentUpon>Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewPatient.Designer.vb">
+      <DependentUpon>AddNewPatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewPatientRecord.Designer.vb">
+      <DependentUpon>AddNewPatientRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewPatientRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQLDatabaseModule.vb" />
+    <Compile Include="Doc_Nurse_Login.Designer.vb">
+      <DependentUpon>Doc_Nurse_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Doc_Nurse_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterPatientId.Designer.vb">
+      <DependentUpon>EnterPatientId.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EnterPatientId.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterPatientID_Update1.Designer.vb">
+      <DependentUpon>EnterPatientID_Update1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EnterPatientID_Update1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterPatientID_Update2.Designer.vb">
+      <DependentUpon>EnterPatientID_Update2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EnterPatientID_Update2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor_Nurse.Designer.vb">
+      <DependentUpon>Doctor_Nurse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor_Nurse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MySQLDatabase.vb" />
+    <Compile Include="SearchBySex.Designer.vb">
+      <DependentUpon>SearchBySex.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchBySex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePatient.Designer.vb">
+      <DependentUpon>UpdatePatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePatientHealthRecord.Designer.vb">
+      <DependentUpon>UpdatePatientHealthRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePatientHealthRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_Update.Designer.vb">
+      <DependentUpon>_Update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="_Update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Search.Designer.vb">
+      <DependentUpon>Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchDate.Designer.vb">
+      <DependentUpon>SearchDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchPatientID.Designer.vb">
+      <DependentUpon>SearchPatientID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchPatientID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Add.resx">
+      <DependentUpon>Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewPatient.resx">
+      <DependentUpon>AddNewPatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewPatientRecord.resx">
+      <DependentUpon>AddNewPatientRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doc_Nurse_Login.resx">
+      <DependentUpon>Doc_Nurse_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterPatientId.resx">
+      <DependentUpon>EnterPatientId.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterPatientID_Update1.resx">
+      <DependentUpon>EnterPatientID_Update1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterPatientID_Update2.resx">
+      <DependentUpon>EnterPatientID_Update2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor_Nurse.resx">
+      <DependentUpon>Doctor_Nurse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchBySex.resx">
+      <DependentUpon>SearchBySex.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePatient.resx">
+      <DependentUpon>UpdatePatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePatientHealthRecord.resx">
+      <DependentUpon>UpdatePatientHealthRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Update.resx">
+      <DependentUpon>_Update.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <DependentUpon>Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchDate.resx">
+      <DependentUpon>SearchDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchPatientID.resx">
+      <DependentUpon>SearchPatientID.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MSVidCtlLib">
+      <Guid>{B0EDF154-910A-11D2-B632-00C04F79498E}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>DB.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
